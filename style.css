@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    font-size: 2.8rem;
+}
+
+h2 {
+    font-size: 3.6rem;
+    padding: 3rem 0rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 2.6rem;
+}
+
+h3 {
+    font-size: 2.8rem;
+}
+
+button {
+    font-size: 1.8rem;
+}
+
+nav {
+    background-color: rgb(5, 77, 124);
+    color: white;
+    padding: 2rem;
+}
+
+nav h1 {
+    float: left;
+}
+
+nav ul {
+    float: right;
+    list-style: none;
+}
+
+nav li {
+    float: left;
+    margin: 0rem 2rem;
+}
+
+.register-section {
+    background-image: url("/images/men-s-black-suit-70361\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60rem;
+    text-align: center;
+    padding-top: 20rem;
+    text-shadow: rgba(196, 54, 54, 0.637) 3px 3px 3px;
+}
+
+.register-section h1,
+.register-section h2 {
+    margin: ;
+}
+
+.register-section button {
+    margin-top: 4rem;
+    background: rgb(187, 127, 70);
+    border: none;
+    padding: 1rem 3rem;
+    cursor: pointer;
+}
+
+.form section img {}
+
+.form-section {
+    text-align: center;
+}
+
+form input,
+form label,
+form textarea {
+    display: block;
+    font-size: 2.4rem;
+    width: 50%;
+}
+
+form input,
+form textarea {
+    margin: 2rem auto;
+}
+
+form button {
+    margin-top: 4rem;
+    background: rgb(187, 127, 70);
+    border: none;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    width: 50%;
+}
